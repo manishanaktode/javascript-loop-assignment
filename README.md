@@ -1,0 +1,2 @@
+# javascript-loop-assignment
+assignment
